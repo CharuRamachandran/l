@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+pydantic-settings
+llama-index
+llama-index-vector-stores-qdrant
+llama-index-graph-stores-neo4j
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+qdrant-client
+neo4j
+langgraph
+unstructured[pdf,pptx,image,md]
+python-multipart 
